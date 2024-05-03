@@ -1,8 +1,0 @@
-git init
-git add .
-git commit -m "first commit"
-# rename current branch cho phu hop voi default branch Github
-# git branch -M main
-git remote add origin https://github.com/nmson2504/test01.git
-# -u, hoặc --set-upstream thiết lập một upstream cho nhánh hiện tại cho thay đổi lần đầu tiên từ nhánh local của bạn lên remote repository.
-git push -u origin main
